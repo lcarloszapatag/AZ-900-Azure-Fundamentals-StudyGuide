@@ -2,7 +2,7 @@
 
 ![AZ-900 Banner Image](/IMAGES/AZ-900%20CERTIFICATION.png)
 
-This github repository is a collection of resources to help you study for the Microsoft AZ-900 Azure Fundamentals Certification exam. (based on the official Microsoft update on January 25, 2022) https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY 
+This github repository is a collection of resources to help you study for the Microsoft AZ-900 Azure Fundamentals Certification exam [based on the official Microsoft update on January 25, 2022](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY).
 
 NOTE: A passing score is **700**. Learn more about exam scores [here](https://docs.microsoft.com/en-us/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams).
 
