@@ -12,3 +12,5 @@ describe the concept of defense in depth
 * describe the functionality and usage of Network Security Groups (NSG)
 * describe the functionality and usage of Azure Firewall
 * describe the functionality and usage of Azure DDoS protection
+
+### [Return to Table of Contents](README.md)

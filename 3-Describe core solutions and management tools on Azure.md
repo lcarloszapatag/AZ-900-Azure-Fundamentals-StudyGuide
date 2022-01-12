@@ -19,3 +19,4 @@ Cloud Shell, and Azure Mobile App
 * describe the functionality and usage of Azure Monitor
 * describe the functionality and usage of Azure Service Health
 
+### [Return to Table of Contents](README.md)

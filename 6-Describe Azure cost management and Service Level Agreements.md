@@ -13,3 +13,5 @@ Ownership (TCO) calculator
 * describe the purpose of an Azure Service Level Agreement (SLA)
 * identify actions that can impact an SLA (i.e. Availability Zones)
 * describe the service lifecycle in Azure (Public Preview and General Availability)
+
+### [Return to Table of Contents](README.md)

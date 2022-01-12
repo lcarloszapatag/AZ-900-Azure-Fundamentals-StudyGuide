@@ -22,3 +22,5 @@ and Data Protection Amendment (DPA)
 * describe the purpose of the Trust Center
 * describe the purpose of the Azure compliance documentation
 * describe the purpose of Azure Sovereign Regions (Azure Government cloud services and Azure China cloud services)
+
+### [Return to Table of Contents](README.md)
