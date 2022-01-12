@@ -1,4 +1,7 @@
 # AZ-900 Azure Fundamentals Study Guide
+
+![AZ-900 Banner Image](/images/AZ-900%20Certification.png)
+
 This github repository is a collection of resources to help you study for the Microsoft AZ-900 Azure Fundamentals Certification exam. (based on the official Microsoft update on January 25, 2022) https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY 
 
 ## Audience Profile
