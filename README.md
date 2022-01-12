@@ -8,10 +8,10 @@ Azure Fundamentals exam is an opportunity to prove knowledge of cloud concepts, 
 
 ## Skills Measured
 1. [Describe Cloud Concepts (20-25%)](1-Describe%20Cloud%20Concepts.md)
-2. [Describe Core Azure Services (15-20%)](2-Describe%20Core%20Services.md)
+2. [Describe Core Azure Services (15-20%)](2-Describe%20Core%20Azure%20Services.md)
 3. [Describe core solutions and management tools on Azure (10-15%)](3-Describe%20core%20solutions%20and%20management%20tools%20on%20Azure.md)
 4. [Describe general security and network security features (10-15%)](4-Describe%20general%20security%20and%20network%20security%20features.md)
 5. [Describe identity, governance, privacy, and compliance features (15-
-20%)](5-Describes%20identity,s%20governance,s%20privacy,s%20ands%20compliances%20features.md)
+20%)](5-Describe%20identity,%20governance,%20privacy,%20and%20compliance%20features.md)
 6. [Describe Azure cost management and Service Level Agreements (10-
 15%)](6-Describe%20Azure%20cost%20management%20and%20Service%20Level%20Agreements.md)
